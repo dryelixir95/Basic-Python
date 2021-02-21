@@ -8,7 +8,7 @@ while (pilihan != 'n'):
         print("Selamat, anda lulus!")
     elif nilai1 >= 70 and nilai2 <70:
         print("Anda harus mengulang ujian praktek")
-    elif nilai1 < 70 and  nilai2 >= 70:
+    elif nilai1 < 70 and nilai2 >= 70:
         print("Anda harus mengukang ujian teori")
     else:
         print("Anda harus mengulang ujian teori dan praktek")
